@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>CovidScreen</title>
+    <style>
+      
+	img {
+    display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  width: 35%;
+  }
+  button {
+  background-color: #4CAF50; /* Green */
+  border: 1;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 2cm;
+  display: inline-block;
+  font-size: 16px;
+}
+body{
+  background-color: gray;
+}
+    </style>
+  </head>
+  <body class="center">
+
+    <h1 align="center">mask Scanner</h1>
+    <img id="bg" class="center" src="{{ url_for('mask_feed') }}">
+    
+    <a href="{{ url_for('index') }}" align="center">
+    <div align="center">
+    <button type="button" >
+        Go Back   </button> 
+    </a>
+  </div>
+    
+   
+
+  </body>
+</html>
