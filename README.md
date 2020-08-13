@@ -1,7 +1,7 @@
   
 # Covid-Detection
 Open Source Covid Detection On Flask
-[![Watch the video](https://www.youtube.com/watch?v=n-ejSFll6aQ)](https://www.youtube.com/watch?v=n-ejSFll6aQ)
+[Demo](https://i.imgur.com/nUxPDP1.gifv)
 1 Download miniconda/anaconda set path variable Create an environmnet if you want ignore if already Done.<br>
 2 Open anaconda prompt or terminal/cmd activate environment if you want and install requirment.<br>
 3 pip install -r requiements.<br>
