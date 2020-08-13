@@ -13,5 +13,5 @@ Open Source Covid Detection On Flask<br>
 10 Finally run python main.py.<br>
 
 Ref
-1 https://github.com/AIZOOTech/FaceMaskDetection
-2 https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19
+1 https://github.com/AIZOOTech/FaceMaskDetection <br>
+2 https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19 <br>
