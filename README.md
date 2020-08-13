@@ -11,3 +11,7 @@ Open Source Covid Detection On Flask<br>
 8 Download yolo weights https://pjreddie.com/media/files/yolov3.weights and place it in root directory.<br>
 9 Install exiftool on linux as sudo apt-get install -y exiftool for windows ignore.<br>
 10 Finally run python main.py.<br>
+
+Ref
+1 https://github.com/AIZOOTech/FaceMaskDetection
+2 https://github.com/Ank-Cha/Social-Distancing-Analyser-COVID-19
