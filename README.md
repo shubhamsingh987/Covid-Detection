@@ -1,7 +1,7 @@
   
 # Covid-Detection
 Open Source Covid Detection On Flask<br>
-[![Demo](https://i.imgur.com/qgfdm01.png)](https://www.youtube.com/watch?v=n-ejSFll6aQ)<br>
+[![Demo](https://i.imgur.com/qgfdm01.png)](https://drive.google.com/file/d/1AZJLM2-ZVxHIMC92LSs0LmSopsf2j137/view?usp=sharing)<br>
 
 # Pre Requisite
 Download Anaconda set path.<br>
